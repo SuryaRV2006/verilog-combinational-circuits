@@ -1,6 +1,6 @@
 module;
 reg[3:0]I;
-reg S;
+reg[1:0] S;
 wire Y;
 mux_4x1 dut(Y,I,S);
 initial
