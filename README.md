@@ -4,6 +4,7 @@ This repository contains basic combinational logic circuits implemented using Ve
 
 ## Circuits Implemented
 - 2x1 Multiplexer
+- 4x1 Multiplexer
 
 ## Folder Structure
 - mux/ : Multiplexer designs and testbenches
